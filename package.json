@@ -1,0 +1,20 @@
+{
+  "name": "token-scanner-upwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "csv-writer": "^1.6.0",
+    "decimal.js": "^10.3.1",
+    "dotenv": "^16.0.0",
+    "eth-block-timestamp": "^0.0.6",
+    "web3": "^1.7.3"
+  }
+}
